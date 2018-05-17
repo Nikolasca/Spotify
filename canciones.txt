@@ -1,0 +1,5 @@
+1,Dura,3,210,reggaeton,1000
+2,La cucharita,5,120,carranga,800
+3,La boda,8,300,bachata,750
+4,Havanna,6,275,pop,940
+5,Amarte mas no pude,2,500,vallenato,3000
